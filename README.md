@@ -19,4 +19,4 @@ This application allows users to input text and receive NER predictions from a B
 
 
 - Here is an image of running app
-![Alt Text](Zsclarx/NER_BERT/image.png)
+![Alt Text](image.png)
