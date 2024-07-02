@@ -15,3 +15,8 @@ This application allows users to input text and receive NER predictions from a B
 
   ```bash
   streamlit run app.py
+
+
+
+- Here is an image of running app
+![Alt Text](Zsclarx/NER_BERT/image.png)
